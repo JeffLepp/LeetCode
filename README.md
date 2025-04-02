@@ -1,0 +1,2 @@
+# LeetCode
+Documentation of progress
